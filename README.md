@@ -6,4 +6,4 @@ Since this is for my personal usage and my personal taste, the current methods s
 
 If you want to take a look on what I've been creating using Python and Processing, please be welcome to access [my sketches' page](https://berinhard.github.io/sketches/).
 
-Please, free to [contact me](mailto:bernardoxhc@gmail.com) regarding licenses to use my work, teaching opportunities, consulting or other projects.
+Please, free to [contact me](mailto:bernardoxhc@gmail.com) regarding licenses to use my work, consulting or other projects.
